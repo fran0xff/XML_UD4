@@ -31,10 +31,5 @@
     editorial="Stockcero"
     resumen="Las aventuras de Lázaro de Tormes"/>
 
-    <libro titulo="El coloquio de los perros"
-    autor="Cervantes"
-    anio="1580"
-    editorial="SM"
-    resumen="Las aventuras de Lázaro de Tormes"/>
 
 </Biblioteca>
