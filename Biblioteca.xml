@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Biblioteca SYSTEM "Biblioteca.dtd">
+<Biblioteca>
+    <libro titulo="El Quijote" 
+    autor="Cervantes" 
+    anio="1605"
+    editorial="Anaya"
+    resumen="Las aventuras de Don Quijote y Sancho Panza"/>
+
+    <libro titulo="El Lazarillo de Tormes"
+    autor="Anónimo"
+    anio="1554"
+    editorial="Catedra"
+    resumen="Las aventuras de Lázaro de Tormes"/>
+
+    <libro titulo="El Buscón"
+    autor="Quevedo"
+    anio="1626"
+    editorial="Anaya"
+    resumen="Las aventuras de Pablos"/>
+
+    <libro titulo="La Celestina"
+    autor="Fernando de Rojas"
+    anio="1580"
+    editorial="SM"
+    resumen="Las aventuras de la Celestina"/>
+
+    <libro titulo="El lazarillo de ciegos caminantes"
+    autor="Concolorcorvo"
+    anio="1580"
+    editorial="Stockcero"
+    resumen="Las aventuras de Lázaro de Tormes"/>
+
+    <libro titulo="El coloquio de los perros"
+    autor="Cervantes"
+    anio="1580"
+    editorial="SM"
+    resumen="Las aventuras de Lázaro de Tormes"/>
+
+</Biblioteca>
